@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,100n,
+J1,Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal,1,Conn_01x06,
+MK1,Infineon_PG-LLGA-5-1,1,IM73D122,
+R1,0603,1,100,

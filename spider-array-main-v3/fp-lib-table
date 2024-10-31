@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SN74LVC8T245PW")(type "KiCad")(uri "${KIPRJMOD}/projlib/SN74LVC8T245PW.pretty")(options "")(descr ""))
+  (lib (name "SN74AVCH1T45DBVR")(type "KiCad")(uri "${KIPRJMOD}/projlib/SN74AVCH1T45DBVR.pretty")(options "")(descr ""))
+)

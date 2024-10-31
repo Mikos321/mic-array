@@ -1,0 +1,67 @@
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'win32'
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.11.5 (main, May 10 2024, 05:24:12) [MSC v.1939 64 bit (AMD64)]'
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.3
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x0000021E961EFD90>
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R4 on root level
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R1 on root level
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J2 on root level
+09-04 15:53:08 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J4 on root level
+09-04 15:53:09 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 830:Reference designator is: J
+09-04 15:53:09 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 831:Reference number is: 4
+09-04 15:53:09 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 863:Sorted and filtered list:
+['J4', 'J5', 'J6', 'J7', 'J8', 'J9', 'J10', 'J11', 'J12', 'J13', 'J14', 'J15', 'J16', 'J17', 'J18']
+09-04 15:53:09 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 359:wx.Colour(240, 240, 240, 255)
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 490:'25'
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 542:Preparing config for reference circular
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 556:Saving config file
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 558:Saved the config file
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 901:Footprints to place:
+['J4', 'J5', 'J6', 'J7', 'J8', 'J9', 'J10', 'J11', 'J12', 'J13', 'J14', 'J15', 'J16', 'J17', 'J18']
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 330:Starting placing with circular layout
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 340:reference footprint position at: VECTOR2I(92000000, 24650000)
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 345:rotation center at: (92000000, 49650000.0)
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.place_footprints 477:Text of: J4 has property "Keep upright" rotation might not look as intended
+09-04 15:53:16 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 916:Placing complete
