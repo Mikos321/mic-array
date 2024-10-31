@@ -1,2 +1,2 @@
-# spider-mic
+# mic-array
 A microphone array
