@@ -1,6 +1,6 @@
 # Spidermic
  ![Spidermic](img/spidermic_sphere.JPG)
-Spidermic is an low cost circular microphone array. For use in measurement applications such as [ambisonics](https://github.com/AppliedAcousticsChalmers/ambisonics-for-insta360-pro).
+Spidermic is an low cost circular microphone array. For use in audio measurement applications such as [ambisonics](https://github.com/AppliedAcousticsChalmers/ambisonics-for-insta360-pro).
 ## Features
 * Low cost spherical microphone array with up to 15 omnidirection microphones.
 * Plug and play compatible with [Minidsp MCHstreamer](https://www.minidsp.com/products/usb-audio-interface/mchstreamer-lite).
